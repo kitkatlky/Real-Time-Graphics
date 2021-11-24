@@ -37,8 +37,10 @@ Suggested subheading:
 
 
 
-MINI PROJECT [one-page rule.pdf](https://github.com/kitkatlky/Real-Time-Graphics/files/7598788/one-page.rule.pdf)
-[Report MP RTG.pdf](https://github.com/kitkatlky/Real-Time-Graphics/files/7598789/Report.MP.RTG.pdf)
+MINI PROJECT 
+One page rule  --->>  [one-page rule.pdf](https://github.com/kitkatlky/Real-Time-Graphics/files/7598788/one-page.rule.pdf)
+Report  --->>   [Report MP RTG.pdf](https://github.com/kitkatlky/Real-Time-Graphics/files/7598789/Report.MP.RTG.pdf)
+Google Drive -->>   https://drive.google.com/file/d/1a3mngFYbfn6dxGFgIkavm4ylmbUsjyQ8/view?usp=sharing
 
 This mini project is to test student knowledge and skills in UNITY to develop
 - 3D polygon/model or character animation with control input OR
